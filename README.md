@@ -1,2 +1,2 @@
 # genetic-algorithm-optimization
-Calculate and Plot effect of Chromosome Length and Population on Generation Count of Genetic Algorithm
+Calculate and plot effect of Chromosome length and population on generation count of Genetic Algorithm
